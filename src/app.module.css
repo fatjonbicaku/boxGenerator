@@ -1,0 +1,8 @@
+.boxContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 520px;
+  margin: 0 auto;
+}
